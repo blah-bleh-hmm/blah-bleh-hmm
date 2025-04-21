@@ -1,5 +1,5 @@
 @blah-bleh-hmm // miki (she/they)
-- currently learning Java 
+- currently learning Java, C++, Web-dev
 - reach me at instagram.com/blah.bleh.hmm
 - {bio is currently empty because user is yet to learn skills}
 
